@@ -1,2 +1,2 @@
 # haskell-examples
-Haskell playground for learning 
+Haskell playground for learning.
